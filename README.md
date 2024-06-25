@@ -1,1 +1,1 @@
-This file is an HTML project from The Odin Project. This will be a recipe webpage where all the recipes listed have been created by me. This project will include different HTML components I learned from The Odin Project.
+This file is an HTML project from The Odin Project. This will be a recipe webpage where all the recipes listed have been created by me. This project will include different HTML tags and attributes I learned from The Odin Project.
